@@ -1,4 +1,11 @@
 # K-Means-Project
+## Overview of the problem
+
+## Description of Data :
+
+- Each row is an employee, and has columns about employee's information like their job type,salary, hours of overtime,other benefits etc.Overall there are 22 columns.
+
+## Column definations:
 
 - Year Type Fiscal (July through June) or Calendar (January through December)
 
@@ -41,3 +48,24 @@
 - Total Benefits The sum of all benefits paid to City employees.
 
  - Total Compensation The sum of all salaries and benefits paid to City employees.
+
+
+## Try answering the below questions to stay on the right track for solving the assignment.
+
+- Do you need to reduce the number of columns?
+- Is your data clean?
+- What all parameters do we need to give to our clustering algorithm?
+- How can we get these parameters?
+- Does your data has some interesting insights?
+- 
+## Objective of Problem :
+
+- You have to fit the data to a clustering model.
+
+- Find the number of clusters for the data.
+
+- Try fitting the model to both the clustering algorithms you have learnt,K-Means and Hierarchical clustering.
+
+- Which one suits this data better?
+
+- Your model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
