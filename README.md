@@ -1,6 +1,6 @@
 # K-Means-Project
 
- Year Type Fiscal (July through June) or Calendar (January through December)
+ -Year Type Fiscal (July through June) or Calendar (January through December)
 
  Year An accounting period of 12 months. The City and County of San Francisco operates on a fiscal year that begins on July 1 and ends on June 30 the following year. The Fiscal Year ending June 30, 2012 is represented as FY2011-2012.
 
