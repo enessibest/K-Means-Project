@@ -28,16 +28,16 @@
 
 -Overtime Amounts paid to City employees working in excess of 40 hours per week.
 
- Other Salaries Various irregular payments made to City employees including premium pay, incentive pay, or other one-time payments.
+ **Other Salaries Various irregular payments made to City employees including premium pay, incentive pay, or other one-time payments.
 
- Total Salary The sum of all salaries paid to City employees.
+ **Total Salary The sum of all salaries paid to City employees.
 
- Retirement City contributions to employee retirement plans.
+ **Retirement City contributions to employee retirement plans.
 
- Health and Dental City-paid premiums to health and dental insurance plans covering City employees. To protect confidentiality as legally required, pro-rated citywide averages are presented in lieu of employee-specific health and dental benefits.
+ **Health and Dental City-paid premiums to health and dental insurance plans covering City employees. To protect confidentiality as legally required, pro-rated citywide averages are presented in lieu of employee-specific health and dental benefits.
 
- Other Benefits Mandatory benefits paid on behalf of employees, such as Social Security (FICA and Medicare) contributions, unemployment insurance premiums, and minor discretionary benefits not included in the above categories.
+ **Other Benefits Mandatory benefits paid on behalf of employees, such as Social Security (FICA and Medicare) contributions, unemployment insurance premiums, and minor discretionary benefits not included in the above categories.
 
- Total Benefits The sum of all benefits paid to City employees.
+**Total Benefits The sum of all benefits paid to City employees.
 
- Total Compensation The sum of all salaries and benefits paid to City employees.
+ **Total Compensation The sum of all salaries and benefits paid to City employees.
